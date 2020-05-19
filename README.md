@@ -9,7 +9,7 @@ this model can predict the three celebrity <hr>
 
 # How to create Data set for this model
 
-Create two folder for this data named  test  and   train and in each folder there are three sub folder named with celebrity you pant or predict
+Create two folder for this data named  test  and   train and in each folder there are three sub folder named with celebrity you want to predict
 # train folder-
 contain three folder named with varun , deepika and Amitab
 
