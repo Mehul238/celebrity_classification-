@@ -17,5 +17,8 @@ contain three folder named with varun , deepika and Amitab
 contain three folder named with varun , deepika and Amitab
 
 # Screen Shot -
+# 1st
+![](screen%20shot/ss1.PNG)
 
-
+# 2nd
+![](screen%20shot/ss2.PNG)
